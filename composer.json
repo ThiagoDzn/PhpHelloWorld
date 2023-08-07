@@ -1,0 +1,10 @@
+{
+    "name": "admin/hello-wphp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\HelloWphp\\": "src/"
+        }
+    },
+    "require": {}
+}
